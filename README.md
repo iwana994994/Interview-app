@@ -18,9 +18,8 @@ Full-stack web application designed to simulate real technical interviews and he
 Landing page where users can start practicing interview questions.
 <img width="1920" height="801" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/bcb2288b-af29-4240-9dd5-3e5636a00242" />
 
-## 💻 Coding Problem Editor
+## 💻 Coding Problems
 
-Interactive coding environment where users write and run solutions.
 <img width="1920" height="809" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/971d905a-0edb-4e36-bb0f-6b568e57de8e" />
 
 
