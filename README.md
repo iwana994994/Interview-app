@@ -18,11 +18,6 @@ Full-stack web application designed to simulate real technical interviews and he
 Landing page where users can start practicing interview questions.
 <img width="1920" height="801" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/bcb2288b-af29-4240-9dd5-3e5636a00242" />
 
-## 💻 Coding Problems
-
-<img width="1920" height="809" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/971d905a-0edb-4e36-bb0f-6b568e57de8e" />
-
-
 ## 🔐 Authentication
 
 Secure login with Clerk authentication.
@@ -30,8 +25,13 @@ Secure login with Clerk authentication.
 <img width="1920" height="801" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/8e6cedef-f7f2-472a-87b9-7b49ec86055c" />
 
 ## 📋 Problems List
-
 Collection of interview problems available for practice.
+
+<img width="1920" height="809" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/971d905a-0edb-4e36-bb0f-6b568e57de8e" />
+
+
+## 💻 Coding Problems
+
 <img width="1920" height="818" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/8edccae4-a065-43f7-ae00-a73d5f814b6b" />
 
 ## 💡 Learning Goals
